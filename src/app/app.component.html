@@ -1,1 +1,23 @@
-<router-outlet></router-outlet>
+<div id="page-wrapper">
+    <div id="header">
+        <nav id="nav">
+            <ul>
+                <li style="white-space: nowrap;">
+                    <a routerLink="/">Inicio</a></li>
+                <li style="white-space: nowrap;">
+                    <a routerLink="/embajadores">Embajadores</a></li>
+                <li style="white-space: nowrap;">
+                    <a routerLink="/ciudadanos">Ciudadanos</a></li>
+            </ul>
+        </nav>
+    </div>
+    <router-outlet></router-outlet>
+</div>
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.dropotron.min.js"></script>
+<script src="assets/js/skel.min.js"></script>
+<script src="assets/js/util.js"></script>
+<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="assets/js/main.js"></script>

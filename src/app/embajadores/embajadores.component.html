@@ -1,0 +1,23 @@
+<section class="wrapper style1">
+  <div class="container">
+    <div class="row 200%">
+      <div class="12u  12u(narrower) important(narrower)">
+        <div id="content">
+
+          <!-- Content -->
+
+          <article *ngFor="let embajador of embajadores" class="embajador">
+            <header>
+              <h2>{{ embajador.name }}</h2>
+              <p>{{ embajador.localidad }}</p>
+            </header>
+
+            <p>{{ embajador.descripcion }}</p>
+            <a href="#" class="button">Contactar</a>
+          </article>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
