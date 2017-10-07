@@ -2478,7 +2478,8 @@
 		background-image: url("../../assets/images/banner.jpg");
 		background-position: center center;
 		background-size: cover;
-		height: 28em;
+		/* height: 28em; */
+		height: 100vh;
 		text-align: center;
 		position: relative;
 	}
@@ -2626,7 +2627,7 @@
 		/* Banner */
 
 			#banner {
-				height: 24em;
+				/* height: 24em; */
 			}
 
 	}
@@ -2670,7 +2671,7 @@
 		/* Banner */
 
 			#banner {
-				height: 20em;
+				/* height: 20em; */
 			}
 
 		/* Wrapper */
@@ -2782,7 +2783,7 @@
 		/* Banner */
 
 			#banner {
-				height: 20em;
+				/* height: 20em; */
 			}
 
 				#banner header h2 {
@@ -3057,7 +3058,7 @@
 		/* Banner */
 
 			#banner {
-				height: 18em;
+				/* height: 18em; */
 			}
 
 		/* Wrapper */
@@ -3123,7 +3124,7 @@
 		/* Banner */
 
 			#banner {
-				height: 20em;
+				/* height: 20em; */
 			}
 
 				#banner header {
