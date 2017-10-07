@@ -1,0 +1,131 @@
+{
+  "embajadores": [
+    {
+      "tipoEmb": "Individuo",
+      "name": "Ana Pfefferkorn",
+      "fechNac": "12091993",
+      "dni": "22777666",
+      "email": "anapfefferkorn@gmail.com",
+      "oferta": "['false','true','false']",
+      "descripcion":
+        "Soy Diseñadora Gráfica y ofrezco mis servicios para hacerle gráfica comercial a algún micro-emprendimiento que lo necesite :-)",
+      "localidad": "La Matanza",
+      "provincia": "Buenos Aires",
+      "password": "$2y$10$rdhYOwoCHCh8FCCdExoJN.vw0Sl.JZbuLa.IwxVifeCUVib0dTbpS"
+    },
+    {
+      "tipoEmb": "Organizacion",
+      "name": "Pintores Solidarios",
+      "fechNac": "",
+      "dni": "",
+      "email": "pintores_solidarios@gmail.com",
+      "oferta": "['false','true','false']",
+      "descripcion":
+        "Pintores Solidarios es una organización de pintores dispuestos a donar parte de su tiempo para reparar fachadas o interiores de familias en situaciones de vulnerabilidad.",
+      "localidad": "San Isidro",
+      "provincia": "Buenos Aires",
+      "password": "$2y$10$rdhYOwoCHCh8FCCdExoJN.vw0Sl.JZbuLa.IwxVifeCUVib0dTbpS"
+    },
+    {
+      "tipoEmb": "Individuo",
+      "name": "Nelson Cristaldo",
+      "fechNac": "02051980",
+      "dni": "13092837",
+      "email": "nel.cristal@mymail.com",
+      "oferta": "['false','false','true']",
+      "descripcion":
+        "Mi nombre es Nelson Cristaldo y me gustaría hacer una donación de $5000 a algún taller de arte para la compra de materiales.",
+      "localidad": "Capital Federal",
+      "provincia": "Capital Federal",
+      "password": "$2y$10$rdhYOwoCHCh8FCCdExoJN.vw0Sl.JZbuLa.IwxVifeCUVib0dTbpS"
+    },
+    {
+      "tipoEmb": "Empresa",
+      "name": "Suavestar",
+      "fechNac": "",
+      "dni": "",
+      "email": "colchones@suavestar.com",
+      "oferta": "['true','false','true']",
+      "descripcion":
+        "La empresa Suavestar ofrece 20 colchones de una plaza y 10 de dos plazas para las familias afectadas por la última inundación de La Plata. También donaremos la suma de $50.000 a albergues para personas en situación de calle",
+      "localidad": "La Plata",
+      "provincia": "Buenos Aires",
+      "password": "$2y$10$rdhYOwoCHCh8FCCdExoJN.vw0Sl.JZbuLa.IwxVifeCUVib0dTbpS"
+    },
+    {
+      "tipoEmb": "Individuo",
+      "name": "Romina Manguel",
+      "fechNac": "04031990",
+      "dni": "32777666",
+      "email": "la_romi@gmail.com",
+      "oferta": "['true','true','false']",
+      "descripcion":
+        "Soy ama de casa y apasionada por el tejido. Tengo gran cantidad de pulloveres y mantas hechas por mi durante los últimos 10 años. También me gustaría dar clases gratuitas de tejido y crochet",
+      "localidad": "Bahia Blanca",
+      "provincia": "Buenos Aires",
+      "password": "$2y$10$rdhYOwoCHCh8FCCdExoJN.vw0Sl.JZbuLa.IwxVifeCUVib0dTbpS"
+    }
+  ],
+  "ciudadanos": [
+    {
+      "name": "Esteban Cruz",
+      "fechNac": "11041992",
+      "dni": "22983666",
+      "email": "cruzados@gmail.com",
+      "necesita": "['false','true','false']",
+      "descripcion":
+        "Mis tres hijos están en la escuela secundaria y al no haber tenido la suerte de estudiar se me hace muy difícil ayudarlos con la tarea. Necesitaría que alguien les pueda dar una mano para organizarse con el estudio.",
+      "localidad": "La Matanza",
+      "provincia": "Buenos Aires",
+      "password": "$2y$10$rdhYOwoCHCh8FCCdExoJN.vw0Sl.JZbuLa.IwxVifeCUVib0dTbpS"
+    },
+    {
+      "name": "Sandra Vazquez",
+      "fechNac": "27041999",
+      "dni": "40739866",
+      "email": "sandraraquel@gmail.com",
+      "necesita": "['false','true','false']",
+      "descripcion":
+        "La tormenta de la semana pasada nos destruyó el techo de casa. Necesitamos a alguien con conocimientos del tema para que nos de una mano en el arreglo",
+      "localidad": "Capital Federal",
+      "provincia": "Capital Federal",
+      "password": "$2y$10$rdhYOwoCHCh8FCCdExoJN.vw0Sl.JZbuLa.IwxVifeCUVib0dTbpS"
+    },
+    {
+      "name": "Arturo Bonin",
+      "fechNac": "30011979",
+      "dni": "19337666",
+      "email": "elactorazodelpueblo@gmail.com",
+      "necesita": "['false','false','true']",
+      "descripcion":
+        "Estoy iniciando un micro-emprendimiento de herrería artística. Necesito capital para hacer la primera compra de insumos. Prometo devolver en un plazo de 6 meses",
+      "localidad": "Tres de Febrero",
+      "provincia": "Buenos Aires",
+      "password": "$2y$10$rdhYOwoCHCh8FCCdExoJN.vw0Sl.JZbuLa.IwxVifeCUVib0dTbpS"
+    },
+    {
+      "name": "Irma Salazar",
+      "fechNac": "15121991",
+      "dni": "35734696",
+      "email": "salazar_irma@gmail.com",
+      "necesita": "['true','false','false']",
+      "descripcion":
+        "La inundación nos ha dejado los colchones podridos y mis hijos y yo estamos todos durmiendo sobre una pila de mantas en el suelo. Colchones es lo que necesitaríamos",
+      "localidad": "La Matanza",
+      "provincia": "Buenos Aires",
+      "password": "$2y$10$rdhYOwoCHCh8FCCdExoJN.vw0Sl.JZbuLa.IwxVifeCUVib0dTbpS"
+    },
+    {
+      "name": "Tomas Carajara",
+      "fechNac": "17071985",
+      "dni": "21237646",
+      "email": "carajoylospibes@gmail.com",
+      "necesita": "['false','true','false']",
+      "descripcion":
+        "Soy peluquero en el barrio La Ranita. Estoy buscando a alguien que me pueda diseñar un logo con onda para atraer a más clientes. A cambio hay peinados re chetos que te van a hacer ganas el finde ;-D !! ",
+      "localidad": "Paso del Rey",
+      "provincia": "Buenos Aires",
+      "password": "$2y$10$rdhYOwoCHCh8FCCdExoJN.vw0Sl.JZbuLa.IwxVifeCUVib0dTbpS"
+    }
+  ]
+}
